@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Maven + Spring MVC</title>
+<title>JENKINS-PIPELINE-DOCKER-</title>
 
 <spring:url value="/resources/core/css/hello.css" var="coreCss" />
 <spring:url value="/resources/core/css/bootstrap.min.css" var="bootstrapCss" />
@@ -14,7 +14,7 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
 	<div class="container">
 		<div class="navbar-header">
-			<a class="navbar-brand" href="#">Project Name</a>
+			<a class="navbar-brand" href="#">Project Demo</a>
 		</div>
 	</div>
 </nav>
@@ -40,15 +40,15 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To my chanel universe4d,pune,Maharastra.</h2>
-			<h3>Contact @ +91</h3>
+			<h2>Demo Sample </h2>
+			
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; universe4d 2019</p>
+		<p>&copy; trial demo</p>
 	</footer>
 </div>
 
