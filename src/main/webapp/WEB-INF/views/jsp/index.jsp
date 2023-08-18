@@ -31,7 +31,7 @@
 				Welcome Welcome!
 			</c:if>
 		<p>
-			<a class="btn btn-primary btn-lg" href="#" role="button">triial</a>
+			<a class="btn btn-primary btn-lg" href="#" role="button">trial button</a>
 		</p>
 	</div>
 </div>
